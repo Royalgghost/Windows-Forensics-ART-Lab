@@ -6,7 +6,7 @@ This repository documents a Digital Forensics and Incident Response (DFIR) inves
 
 - **Investigator:** Nouamane Azzat
 - **Date:** October 17, 2026
-- **Target Environment:** Windows 10 VM (`ilyas` user profile)
+- **Target Environment:** Windows 11 VM
 
 ---
 
