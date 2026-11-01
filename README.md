@@ -43,10 +43,16 @@ The complete detailed report in French is available here: [`docs/rapport_forensi
 
 ## 📸 Evidence Snapshot
 
-![Forensic artifact screenshot 1](screenshots/Capture%20d%27%C3%A9cran%202026-11-01%20032300.png)
+<div align="center">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-11-01%20032300.png" width="700" alt="Forensic artifact screenshot 1" />
+</div>
 
-![Forensic artifact screenshot 2](screenshots/Capture%20d%27%C3%A9cran%202026-11-01%20032320.png)
+<div align="center">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-11-01%20032320.png" width="700" alt="Forensic artifact screenshot 2" />
+</div>
 
-![Forensic artifact screenshot 3](screenshots/Capture%20d%27%C3%A9cran%202026-11-01%20032331.png)
+<div align="center">
+  <img src="screenshots/Capture%20d%27%C3%A9cran%202026-11-01%20032331.png" width="700" alt="Forensic artifact screenshot 3" />
+</div>
 
 _A selection of screenshots captured during the investigation workflow and evidence collection process._
