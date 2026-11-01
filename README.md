@@ -38,3 +38,11 @@ This repository documents a Digital Forensics and Incident Response (DFIR) inves
 ## 📑 Full Report
 
 The complete detailed report in French is available here: [`docs/rapport_forensic.pdf`](docs/rapport_forensic.pdf)
+
+---
+
+## 📸 Evidence Snapshot
+
+![Forensic artifact screenshot](screenshots/Capture%20d%27%C3%A9cran%202026-11-01%20032300.png)
+
+_A screenshot from the investigation environment showing the forensic workflow and evidence collection context._
