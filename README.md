@@ -37,7 +37,7 @@ This repository documents a Digital Forensics and Incident Response (DFIR) inves
 
 ## 📑 Full Report
 
-The complete detailed report in French is available here: [`docs/rapport_forensic.pdf`](docs/rapport_forensic Azzat Nouamane.pdf)
+The complete detailed report in French is available here: [`docs/rapport_forensic Azzat Nouamane.pdf`](docs/rapport_forensic Azzat Nouamane.pdf)
 
 ---
 
