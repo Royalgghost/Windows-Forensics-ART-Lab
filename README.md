@@ -55,4 +55,6 @@ The complete detailed report in French is available here: [`docs/rapport_forensi
   <img src="screenshots/Capture%20d%27%C3%A9cran%202026-11-01%20032331.png" width="700" alt="Forensic artifact screenshot 3" />
 </div>
 
-_A selection of screenshots captured during the investigation workflow and evidence collection process._
+<div align="center">
+  <em>A selection of screenshots captured during the investigation workflow and evidence collection process.</em>
+</div>
