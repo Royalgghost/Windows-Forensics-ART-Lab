@@ -1,6 +1,6 @@
 # 🔍 Windows Forensics: Incident Response & Artifact Analysis
 
-## Overview
+##  Overview
 
 This repository documents a Digital Forensics and Incident Response (DFIR) investigation conducted on a Windows 10 virtual machine. The goal was to simulate adversary behaviors using Atomic Red Team and capture volatile and non-volatile evidence while adhering to the Order of Volatility (RFC 3227).
 
